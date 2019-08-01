@@ -1,0 +1,161 @@
+name,url,language,description
+30-seconds-of-code,https://github.com/30-seconds/30-seconds-of-code,JavaScript,A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
+30-seconds-of-css,https://github.com/30-seconds/30-seconds-of-css,HTML,A curated collection of useful CSS snippets you can understand in 30 seconds or less.
+30-seconds-of-interviews,https://github.com/30-seconds/30-seconds-of-interviews,JavaScript,A curated collection of common interview questions to help you prepare for your next interview.
+30-seconds-of-react,https://github.com/30-seconds/30-seconds-of-react,JavaScript,Curated collection of useful React snippets that you can understand in 30 seconds or less.
+33-js-concepts,https://github.com/leonardomso/33-js-concepts,JavaScript,📜 33 concepts every JavaScript developer should know.
+apprun,https://github.com/yysun/apprun,TypeScript,"AppRun is a JavaScript library for developing high-performance and reliable web applications using the elm inspired architecture, events and components."
+awesome,https://github.com/sindresorhus/awesome,,😎 Awesome lists about all kinds of interesting topics
+awesome-django,https://github.com/jbwolfe/awesome-django,,A curated list of awesome Django apps and projects.
+awesome-feathersjs,https://github.com/feathersjs/awesome-feathersjs,,A list of awesome things related to FeathersJS
+awesome-go,https://github.com/avelino/awesome-go,Go,"A curated list of awesome Go frameworks, libraries and software"
+awesome-javascript,https://github.com/sorrycc/awesome-javascript,,"🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things."
+awesome-nodejs-projects,https://github.com/sqreen/awesome-nodejs-projects,,Curated list of awesome open-source applications made with Node.js
+awesome-python,https://github.com/vinta/awesome-python,Python,"A curated list of awesome Python frameworks, libraries, software and resources"
+awesome-typescript-projects,https://github.com/brookshi/awesome-typescript-projects,TypeScript,"awesome typescript open source projects, includes IDE, Framework, Library, Tool"
+aws-lambda-ses-forwarder,https://github.com/arithmetric/aws-lambda-ses-forwarder,JavaScript,Serverless email forwarding using AWS Lambda and SES
+bench,https://github.com/frappe/bench,Python,Multi-tenant platform to install and manage Frappe / ERPNext
+bhima,https://github.com/IMA-WorldHealth/bhima,JavaScript,A hospital information management application for rural Congolese hospitals
+buffalo,https://github.com/gobuffalo/buffalo,Go,Rapid Web Development w/ Go
+byob,https://github.com/malwaredllc/byob,Python,BYOB (Build Your Own Botnet)
+canvg,https://github.com/canvg/canvg,JavaScript,Javascript SVG parser and renderer on Canvas
+centrifugo,https://github.com/centrifugal/centrifugo,Go,Scalable real-time messaging in language-agnostic way
+cezerin,https://github.com/cezerin/cezerin,JavaScript,Cezerin is React and Node.js based eCommerce platform.
+channels,https://github.com/django/channels,Python,Developer-friendly asynchrony for Django
+cheatsheets,https://github.com/Kapeli/cheatsheets,Ruby,Collection of Dash cheat sheets
+Complete-Python-Bootcamp,https://github.com/jmportilla/Complete-Python-Bootcamp,Jupyter Notebook,Lectures for Udemy - Complete Python Bootcamp Course
+connect,https://github.com/senchalabs/connect,JavaScript,Connect is a middleware layer for Node.js
+cookiecutter,https://github.com/cookiecutter/cookiecutter,Python,"A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects."
+cookiecutter-django,https://github.com/pydanny/cookiecutter-django,Python,Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
+crate,https://github.com/atulmy/crate,JavaScript,"👕👖📦 A sample web and mobile application built with Node, Express, React, React Native, Redux and GraphQL. Very basic replica of stitchfix.com / krate.in (allows users to get monthly subscription of trendy clothes and accessories)."
+create-next-app,https://github.com/zeit/create-next-app,,Create Next.js apps in one command
+cytoscape.js,https://github.com/cytoscape/cytoscape.js,JavaScript,Graph theory (network) library for visualisation and analysis
+d3,https://github.com/d3/d3,JavaScript,"Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:"
+dash,https://github.com/plotly/dash,JavaScript,Analytical Web Apps for Python. No JavaScript Required.
+data-science-ipython-notebooks,https://github.com/donnemartin/data-science-ipython-notebooks,Python,"Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines."
+desktop,https://github.com/desktop/desktop,TypeScript,Simple collaboration from your desktop
+Detectron,https://github.com/facebookresearch/Detectron,Python,"FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet."
+django,https://github.com/django/django,Python,The Web framework for perfectionists with deadlines.
+django-allauth,https://github.com/pennersr/django-allauth,Python,"Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication."
+django-cms,https://github.com/divio/django-cms,Python,The easy-to-use and developer-friendly CMS
+django-haystack,https://github.com/django-haystack/django-haystack,Python,Modular search for Django
+django-oscar,https://github.com/django-oscar/django-oscar,Python,Domain-driven e-commerce for Django
+djangopackages,https://github.com/djangopackages/djangopackages,Python,"Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects."
+ElaAdmin,https://github.com/puikinsh/ElaAdmin,HTML,A clean & completely free Bootstrap 4 admin dashboard template
+ember.js,https://github.com/emberjs/ember.js,JavaScript,Ember.js - A JavaScript framework for creating ambitious web applications
+erpnext,https://github.com/frappe/erpnext,Python,Open Source ERP built for the web
+etcd,https://github.com/etcd-io/etcd,Go,Distributed reliable key-value store for the most critical data of a distributed system
+expressCart,https://github.com/mrvautin/expressCart,JavaScript,"A fully functioning Node.js shopping cart with Stripe, PayPal and Authorize.net payments."
+fabric,https://github.com/hyperledger/fabric,Go,Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric
+fabric-chaincode-node,https://github.com/hyperledger/fabric-chaincode-node,JavaScript,Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric-chaincode-node
+fabric-samples,https://github.com/hyperledger/fabric-samples,JavaScript,Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric-samples
+fabric-sdk-node,https://github.com/hyperledger/fabric-sdk-node,JavaScript,Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric-sdk-node
+falcon,https://github.com/falconry/falcon,Python,"The minimalist web API framework for building reliable, high-performance REST APIs, microservices, proxies, and app backends in Python."
+feathers,https://github.com/feathersjs/feathers,JavaScript,"A REST and real-time API layer for Node.js, React Native and the browser."
+feathers-chat,https://github.com/feathersjs/feathers-chat,CSS,A Feathers real-time chat application
+flask,https://github.com/pallets/flask,Python,The Python micro framework for building web applications.
+flowchart.js,https://github.com/adrai/flowchart.js,JavaScript,Draws simple SVG flow chart diagrams from textual representation of the diagram
+forum-app,https://github.com/ahmer-yasin/forum-app,JavaScript,Mern Stack form App for discussions and testing
+gitignore,https://github.com/github/gitignore,,A collection of useful .gitignore templates
+go-to-do-app,https://github.com/schadokar/go-to-do-app,JavaScript,"This is a to-do list application. It's server is created in Golang, db is mongodb and client is in React."
+GoJS,https://github.com/NorthwoodsSoftware/GoJS,JavaScript,"JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages."
+Gooey,https://github.com/chriskiehl/Gooey,Python,Turn (almost) any Python command line program into a full GUI application with one line
+hackathon-starter,https://github.com/sahat/hackathon-starter,JavaScript,A boilerplate for Node.js web applications
+handlebars.js,https://github.com/wycats/handlebars.js,JavaScript,
+hapi,https://github.com/hapijs/hapi,JavaScript,:office: Server Framework  for Node.js
+heimdall,https://github.com/gojek/heimdall,Go,An enhanced HTTP client for Go
+helmet,https://github.com/helmetjs/helmet,JavaScript,Help secure Express apps with various HTTP headers
+How-To-Secure-A-Linux-Server,https://github.com/imthenachoman/How-To-Secure-A-Linux-Server,,An evolving how-to guide for securing a Linux server.
+httpie,https://github.com/jakubroztocil/httpie,Python,"As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp"
+hug,https://github.com/hugapi/hug,Python,"Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler."
+hugo,https://github.com/gohugoio/hugo,Go,The world’s fastest framework for building websites.
+influxdb,https://github.com/influxdata/influxdb,Go,"Scalable datastore for metrics, events, and real-time analytics"
+istio,https://github.com/istio/istio,Go,"Connect, secure, control, and observe services."
+javascript-decorators,https://github.com/wycats/javascript-decorators,,
+Javascript-the-Good-Parts-notes,https://github.com/dwyl/Javascript-the-Good-Parts-notes,,":book: Notes on the seminal ""Javascript the Good Parts: byDouglas Crockford"
+JavaScript30,https://github.com/wesbos/JavaScript30,HTML,30 Day Vanilla JS Challenge
+joint,https://github.com/clientIO/joint,JavaScript,JavaScript diagramming library
+js-sequence-diagrams,https://github.com/bramp/js-sequence-diagrams,JavaScript,Draws simple SVG sequence diagrams from textual representation of the diagram
+jsplumb,https://github.com/jsplumb/jsplumb,JavaScript,Visual connectivity for webapps
+keras,https://github.com/keras-team/keras,Python,Deep Learning for humans
+kivy,https://github.com/kivy/kivy,Python,"Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS"
+koa-tut,https://github.com/DarthOstrich/koa-tut,JavaScript,
+kubernetes,https://github.com/kubernetes/kubernetes,Go,Production-Grade Container Scheduling and Management
+learn-json-web-tokens,https://github.com/dwyl/learn-json-web-tokens,JavaScript,:closed_lock_with_key: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
+libreact,https://github.com/streamich/libreact,TypeScript,Collection of useful React components
+lodash,https://github.com/lodash/lodash,JavaScript,"A modern JavaScript utility library delivering modularity, performance, & extras."
+lorca,https://github.com/zserge/lorca,Go,Build cross-platform modern desktop apps in Go + HTML5
+Mailpile,https://github.com/mailpile/Mailpile,Python,"A free & open modern, fast email client with user-friendly encryption and privacy features"
+Mask_RCNN,https://github.com/matterport/Mask_RCNN,Python,Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
+matplotlib,https://github.com/matplotlib/matplotlib,Python,matplotlib: plotting with Python
+mermaid,https://github.com/knsv/mermaid,JavaScript,Generation of diagram and flowchart from text in a similar manner as markdown
+mezzanine,https://github.com/stephenmcd/mezzanine,Python,CMS framework for Django
+models,https://github.com/tensorflow/models,Python,Models and examples built with TensorFlow
+moleculer,https://github.com/moleculerjs/moleculer,JavaScript,:rocket: Progressive microservices framework for Node.js
+moment-range,https://github.com/rotaready/moment-range,JavaScript,Fancy date ranges for Moment.js
+mxstbr.com,https://github.com/mxstbr/mxstbr.com,JavaScript,The source for my personal website
+nest,https://github.com/nestjs/nest,TypeScript,"A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀"
+NewsBlur,https://github.com/samuelclay/NewsBlur,Python,NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
+next.js,https://github.com/zeit/next.js,JavaScript,The React Framework
+nivo,https://github.com/plouc/nivo,JavaScript,"nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries"
+node-red,https://github.com/node-red/node-red,JavaScript,A visual tool for wiring the Internet of Things
+nodebestpractices,https://github.com/i0natan/nodebestpractices,JavaScript,:white_check_mark: The largest Node.js best practices list (July 2019)
+nodereact2,https://github.com/shaikhsmsuss/nodereact2,JavaScript,
+office-ui-fabric-react,https://github.com/OfficeDev/office-ui-fabric-react,TypeScript,React components for building Microsoft web experiences.
+onionshare,https://github.com/micahflee/onionshare,Python,Securely and anonymously send and receive files
+pandas,https://github.com/pandas-dev/pandas,Python,"Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
+passport-tutorial,https://github.com/AntonioErdeljac/passport-tutorial,JavaScript,This is a repository for my Medium.com article
+plotly.js,https://github.com/plotly/plotly.js,JavaScript,Open-source JavaScript charting library behind Plotly and Dash
+polka,https://github.com/lukeed/polka,JavaScript,"A micro web server so fast, it'll make you dance! :dancers:"
+pq,https://github.com/lib/pq,Go,Pure Go Postgres driver for database/sql
+preact,https://github.com/preactjs/preact,JavaScript,⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
+Projects,https://github.com/karan/Projects,,:page_with_curl: A list of practical projects that anyone can solve in any programming language.
+proposal-decorators,https://github.com/tc39/proposal-decorators,HTML,Decorators for ES6 classes
+proxy-lists,https://github.com/chill117/proxy-lists,JavaScript,Node.js module and CLI tool to get proxies from publicly available proxy lists.
+proxy-verifier,https://github.com/chill117/proxy-verifier,JavaScript,Node module for checking proxies.
+purescript,https://github.com/purescript/purescript,Haskell,A strongly-typed language that compiles to JavaScript
+radium,https://github.com/FormidableLabs/radium,JavaScript,A toolchain for React component styling.
+raphael,https://github.com/DmitryBaranovskiy/raphael,JavaScript,JavaScript Vector Library
+rAppid.js,https://github.com/rappid/rAppid.js,JavaScript,the declarative Rich Internet Application Javascript MVC Framework
+react-animations,https://github.com/FormidableLabs/react-animations,JavaScript,🎊 A collection of animations for inline style libraries
+react-auth-client,https://github.com/funador/react-auth-client,JavaScript,Social authentication with React and Express
+react-auth-server,https://github.com/funador/react-auth-server,JavaScript,Social authentication with React and Express
+react-burger-menu,https://github.com/negomi/react-burger-menu,JavaScript,:hamburger: An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations
+react-color,https://github.com/casesandberg/react-color,JavaScript,":art: Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more"
+react-dag,https://github.com/ajainarayanan/react-dag,TypeScript,This is a base implementation of wrapping jsplumb with react to be more usable in a react based environment
+react-dag-app,https://github.com/ajainarayanan/react-dag-app,JavaScript,This is a sample app for demoing the use of react-dag component.
+react-quickly,https://github.com/azat-co/react-quickly,JavaScript,"Source code for React Quickly [Manning, 2017]: Painless Web Apps with React, JSX, Redux, and GraphQL 📕"
+react-vis,https://github.com/uber/react-vis,JavaScript,Data Visualization Components
+redux-devtools-extension,https://github.com/zalmoxisus/redux-devtools-extension,JavaScript,Redux DevTools extension.
+redux-form,https://github.com/erikras/redux-form,JavaScript,A Higher Order Component using react-redux to keep form state in a Redux store
+requests,https://github.com/psf/requests,Python,Python HTTP Requests for Humans™ ✨🍰✨
+Resemble.js,https://github.com/rsmbl/Resemble.js,JavaScript,Image analysis and comparison
+rethinkdb_rebirth,https://github.com/rethinkdb/rethinkdb_rebirth,C++,The open-source database for the realtime web.
+revel,https://github.com/revel/revel,Go,"A high productivity, full-stack web framework for the Go language."
+rshelljs,https://github.com/elouizbadr/rshelljs,JavaScript,A Node.js module that executes *nix Shell commands and returns real-time output.
+saas,https://github.com/async-labs/saas,TypeScript,"Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript."
+saleor,https://github.com/mirumee/saleor,Python,"A modular, high performance e-commerce storefront built with Python, GraphQL, Django, and ReactJS."
+scikit-learn,https://github.com/scikit-learn/scikit-learn,Python,scikit-learn: machine learning in Python
+sentry,https://github.com/getsentry/sentry,Python,"Sentry is cross-platform application monitoring, with a focus on error reporting."
+sound-redux,https://github.com/andrewngu/sound-redux,JavaScript,A Soundcloud client built with React / Redux
+spectrum,https://github.com/withspectrum/spectrum,JavaScript,"Simple, powerful online communities."
+spresso-search,https://github.com/JoshuaScript/spresso-search,TypeScript,"Visual metasearch engine built with TypeScript, React, Redux & Express"
+swup,https://github.com/swup/swup,JavaScript,":tada: Complete, flexible, extensible and easy to use page transition library for your web."
+system-design-primer,https://github.com/donnemartin/system-design-primer,Python,Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+techan,https://github.com/sdcoffey/techan,Go,Technical Analysis Library for Golang
+Theano,https://github.com/Theano/Theano,Python,"Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation."
+todomvc,https://github.com/tastejs/todomvc,JavaScript,"Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more"
+tornado,https://github.com/tornadoweb/tornado,Python,"Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed."
+typescript-starter,https://github.com/bitjson/typescript-starter,TypeScript,Quickly create and configure a new library or Node.js project
+underscore,https://github.com/jashkenas/underscore,JavaScript,JavaScript's utility _ belt
+v,https://github.com/vlang/v,Go,"Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in <1s. https://vlang.io"
+victory,https://github.com/FormidableLabs/victory,JavaScript,A collection of composable React components for building interactive data visualizations
+vscode-live-server,https://github.com/ritwickdey/vscode-live-server,TypeScript,Launch a development local Server with live reload feature for static & dynamic pages.
+wagtail,https://github.com/wagtail/wagtail,Python,A Django content management system focused on flexibility and user experience
+Winds,https://github.com/GetStream/Winds,HTML,A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
+yapf,https://github.com/google/yapf,Python,A formatter for Python files
+you-get,https://github.com/soimort/you-get,Python,:arrow_double_down: Dumb downloader that scrapes the web
+youtube-dl,https://github.com/ytdl-org/youtube-dl,Python,Command-line program to download videos from YouTube.com and other video sites
+yugabyte-db,https://github.com/YugaByte/yugabyte-db,C,"The high-performance distributed SQL database for global, internet-scale apps."
+ZeroNet,https://github.com/HelloZeroNet/ZeroNet,Python,ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
+zulip,https://github.com/zulip/zulip,Python,Zulip server - powerful open source team chat
